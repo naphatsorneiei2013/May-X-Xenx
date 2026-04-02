@@ -25,13 +25,13 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Thailang.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: หนูทำงานเป็นวิศวกรซอฟต์แวร์และมีส่วนร่วมในการพัฒนาทั้งส่วนหน้าและส่วนหลังของเว็บแอปพลิเคชัน
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: สำรวจการเขียนเนื้อหาเชิงเทคนิค
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: ในเวลาว่าง หนูชอบแก้ปัญหาบนเว็บไซต์ GeeksforGeeks และอ่านบทความด้านเทคโนโลยี และชอบเขียนสคริปต์เซิร์ฟเกมส์
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:จะติดต่อฉันได้อย่างไร: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 ---
 
@@ -59,7 +59,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naphatsorneiei2013&theme=dark&background=000000)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naphatsorneiei2013)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naphatsorneiei2013&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- BLOG-POST-LIST:START -->
